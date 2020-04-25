@@ -1,0 +1,2 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="prueba.master.cs" Inherits="View_prueba" %>
+
